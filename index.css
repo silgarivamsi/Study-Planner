@@ -1,0 +1,90 @@
+/* Smart Student Logo */
+.green {
+    color: #1BBD34;
+}
+
+body {
+    padding-top: 20px;
+}
+
+.underline{
+  height:3px;
+  width: 50px;
+  background-color :#1BBD34
+}
+/* Navbar */
+/* Company name */
+.green {
+    color: #1BBD34;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-nav .nav-link {
+    color: #000 !important;
+    transition: 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #28a745 !important;
+}
+
+.dropdown-menu .dropdown-item:hover {   
+    background-color: white;
+    color: #28a745;
+}
+
+/* Carousel Image */
+.carousel-item img {
+    height: 573px;
+    object-fit: cover;
+}
+
+/* Features start */
+.voilet{
+    color: blueviolet;
+}
+.pink{
+    color: rgb(255, 2, 183);
+}
+/* Features end */
+
+/* Footer */
+.black {
+    background-color: #000;
+}
+
+.footer-links li a {
+    text-decoration: none;
+    color: #aaa;
+}
+
+.footer-links li a:hover {
+    color: #1BBD34;
+}
+
+.green1 {
+    color: white;
+    background-color: #1BBD34;
+}
+
+
+/* About Section(Team) */
+/* Green Header Section */
+.page-header {
+    background: #1bbd36;
+    padding: 22px 0;
+    color: white;
+
+}
+.page-header .breadcrumb a{
+    color: white;
+    text-decoration: none;
+}
+
+.quote-icon-right {
+    display: inline-block;
+    transform: scale(-1, -1);
+}
